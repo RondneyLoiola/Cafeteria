@@ -10,7 +10,7 @@ Tecnologias Utilizadas 🛠️
 -CSS3: Para a estilização e design responsivo
 <br>
 
-Funcionalidades<br> ✨
+Funcionalidades ✨<br> 
 O site inclui:
 <br>
 -Página inicial com apresentação da cafeteria
