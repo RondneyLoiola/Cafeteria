@@ -1,16 +1,16 @@
-Cafeteria - Projeto de Site
+Cafeteria - Projeto de Site ☕
 <br>
-Este é um projeto de site para uma cafeteria fictícia, desenvolvido com tecnologias web básicas.
+Este é um projeto de site para uma cafeteria fictícia, desenvolvido com tecnologias web básicas. 💻☕
 <br>
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas 🛠️
 <br>
--HTML5: Para a estruturação e conteúdo do site
+-HTML5: Para a estruturação e conteúdo do site 
 <br>
 -CSS3: Para a estilização e design responsivo
 <br>
 
-Funcionalidades<br>
+Funcionalidades<br> ✨
 O site inclui:
 <br>
 -Página inicial com apresentação da cafeteria
